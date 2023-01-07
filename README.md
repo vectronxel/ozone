@@ -13,4 +13,3 @@ Repository---------------------->>>website
 					                   link all 
 					Generate qr code at last 
 					Including apk
-![image](https://user-images.githubusercontent.com/77779431/211134620-edf5c494-2a22-4a30-8bfa-d60841df44c9.png)
