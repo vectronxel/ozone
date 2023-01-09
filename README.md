@@ -13,3 +13,6 @@ part 5-documentation section
 link all 
 Generate qr code at last 
 Including apk
+
+
+Hello, this is prabhas kadari and im from team neon, were making a web app which can be used to visualize the values of ozone pollutants in the stratosphere in a particular country. We've used API's to get the information from multiple sources which are included in the web app.
